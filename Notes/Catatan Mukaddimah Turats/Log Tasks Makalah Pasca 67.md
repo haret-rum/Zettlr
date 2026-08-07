@@ -1,0 +1,9 @@
+- [x] menjelaskan [[mengapa turats pasca 67|mengapa *turāts* pasca 67]], dan apakah perbedaannya dari *turāts* sebelumnya? jelaskan dengan menyebutkan beberapa poin #aktif ⏫ ✅ 2026-07-17
+- [x] jelaskan hubungan nahdlah dengan *turāts*, dan mengapa kajian tentang nahdhah itu perlu (nahdhah = kenyataan gerakan sosial Arab) #aktif ⏫ ✅ 2026-07-25
+- [ ] apa sajakah kekhususan nahdhah pertama — hubungannnya dengan pemikiran — secara historis yang membedakannya dari nahdhah kedua. jelaskan pula nahdhah pertama dan kedua ini #aktif
+	- [x] tentang nahdhah salafiyyah baca azmat mujtama hal. 99 #aktif ✅ 2026-07-25
+	- [ ] tentang nahdhah secara umum baca nahdhah mujahhadhah 16 #aktif
+	- [x] nahdhah pertama baca muhawalah #aktif ✅ 2026-07-25
+	- [ ] tipologi pemikiran nahdhah baca mafahim isykaliyyah 12 juga 106 kemudian 133 dan 471 #aktif
+    - [ ] baca tentang ashalah dalam buku shukri ayyyad yang disinggung oleh Boulatta dalam trend
+- [ ] mencari tentang kemunculan diskusi turats sebagai ashalah. Kemudian turats dan kaitannya dengan kemunduran dan reformisme #active 📅 2026-08-02

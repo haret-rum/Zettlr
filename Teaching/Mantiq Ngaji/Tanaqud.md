@@ -1,0 +1,115 @@
+---
+title: Tanaqud
+tags:
+  - ngajimantiq
+---
+> التناقض معناه اختلاف قضيتين بالإيجاب والسلب، بحيث تصدق إحداها، وتكذب الأخرى.
+> 
+> Tanaqud dalam ilmu mantiq berarti perbedaan antara **dua qadhiyah** dalam bentuk ijab (afirmatif) dan salabnya (negatif), sedemikian rupa **sehingga salah satunya benar dan yang lainnya salah.**
+
+%%tashdiq (menilai kebenaran) qadhiyah
+- langsung
+- tidak langsung
+
+qiyas → qadhiyah lainnya
+
+Socrates adalah manusia
+<u>manusia pastilah mati</u>
+Socrates pasti mati
+
+zaid adalah penulis = B
+zaid bukanlah penulis = S%%
+
+**Ketentuan Tanaqud:**
+- Berbeda kayf (mujabah, salibah) pada qadhiyyah syakhsyiyah
+- Berbeda kayf (**mujabah**, salibah) dan kamm (kulliyah, **juziyah**) pada qadhiyyah mahshurah (qadhiyah yang memiliki sur)
+- Muhmalah dihukumi sebagaimana mahshurah juz'iyyah.
+
+Tanaqud merupakan istidlal mubasyir yang menghadirkan qadhiyyah yang maudhu dan mahmulnya secara *maddah* sama. Berbeda dengan istidlal ghairu mubasyir, qiyas misalnya, yang penyimpulannya membutuhkan qadhiyyah dengan maudhu' dan mahmul yang berlainan. Bandingkan:
+
+**Qiyas**
+
+Alam itu berubah 
+Setiap yang berubah itu baru
+∴ semua alam itu baru
+
+Setiap manusia adalah jism yang bergerak
+Setiap jism yang bergerak adalah hewan
+∴ Semua manusia itu hewan
+
+**tanaqud**
+
+Semua manusia adalah hewan itu benar, maka sebagian manusia bukanlah hewan itu salah.
+Semua manusia adalah hewan itu benar karena tanaqudnya sudah pasti salah.
+
+**Misal:**
+
+Zaid bertanya kepada Umar: "Bagaimana membuktikan bahwa qadhiyah semua manusia adalah hewan itu benar?"
+
+Umar: "Karena mengatakan bahwa sebagian manusia bukanlah hewan itu salah, maka sudah pasti tanaqudhnya 'seluruh manusia adalah hewan' itu benar"
+
+Oleh karena itu, _Tanaqud_ merupakan bagian dari **istidlal mubasyir**, yakni menguji kebenaran sebuah qadhiyah dengan memperhadapkannya dengan qadhiyah yang serupa dalam hal maddahnya (maudhu’dan mahmul) namun berbeda dalam bentuknya (kayf dan kamm). 
+
+Istidlal mubasyir dilakukan dengan taqabul: yaitu menghadirkan bentuk lain yang paling mungkin di antara bentuk-bentuk qadhiyah yang ada, bisa berupa _tanaqud (kontradiktori)_ dari sebuah qadhiyyah, tadhad-nya (kontrari), dukhul tahta tadhad-nya (sub-kontrari), dan tadakhul-nya (subaltern) [keempat inilah yang disebut dengan taqabul]   atau dengan non-taqabul: yaitu mengubah qadhiyah menjadi qadhiyah lain yang baru, berupa ‘aks (konversi) dan naqidh (obversi).
+
+**semua manusia itu hewan = A**
+
+Mentaqabul A berarti memperhadapkan qadhiyab A dengan qadhiyah bentuk lainnya (tanpa mengubah *maddah* dari maudhu dan mahmul):
+
+Sebagian manusia itu hewan = I
+Semua manusia bukan hewan = E
+Sebagian manusia bukanlah hewan = O
+
+Sehingga dapat diketahui hukum shadiq-kadzibnya
+
+**Square of Opposition (murabba' al-taqabul) yang menjelaskan hubungan antara bentuk qadhiyah satu dengan bentuk qadhiyah lainnya:**
+
+![[image.jpeg]]
+
+#### **contoh tanaqud (kontradiktori)**:
+_setiap besi adalah logam ⇒ sebagian besi bukanlah logam_ (A ⇒ O dan E ⇒ I ). 
+
+**Hukum:** 
+1. Jika A benar maka O sudah pasti salah. Jika O yang benar maka A sudah pasti salah.
+
+Setiap besi adalah logam (benar) ⇒ sebagian besi bukanlah logam (salah)
+
+#### **contoh tadhad (kontrari)**: 
+_setiap emas adalah logam ⇒ tidak satupun dari emas adalah logam_ (A⇒E)
+semua hewan bukanlah manusia (s) ⇒ semua hewan adalah manusia (s)
+
+**Hukum:** 
+1. Jika salah satu benar maka yang lain salah, 
+2. Akan tetapi mungkin bagi kedua-duanya salah 
+3. Dan mustahil keduanya sama-sama benar sekaligus.
+
+Setiap emas adalah logam (benar) ⇒ tidak satupun dari emas adalah logam (salah)
+Setiap batu adalah manusia (salah) ⇒ tidak satupun dari batu adalah manusia (benar)
+Setiap hewan adalah manusia (salah) ⇒ tidak satupun dari hewan adalah manusia (salah)
+
+#### **contoh tadakhul (subaltern)**: 
+_semua emas adalah logam ⇒ sebagian emas adalah logam. Semua emas bukanlah pohon ⇒ sebagian emas bukanlah pohon_ (A⇒I & E⇒O). 
+
+**Hukum:** 
+1. Jika A benar maka I sudah pasti benar. Jika E benar maka O sudah pasti benar.
+2. Jika A salah barangkali I benar dan salah
+
+Seluruh manusia adalah hewan (benar) ⇒ sebagian manusia adalah hewan (benar)
+Seluruh manusia adalah penyair (salah) ⇒ sebagian manusia adalah  penyair (benar) 
+Seluruh manusia adalah pohon (salah) ⇒ sebagian manusia adalah pohon (salah)
+
+#### **contoh dukhul tahta tadhad (sub-kontrari)**:
+_sebagian logam adalah emas (benar) ⇒ sebagian logam bukanlah emas_ (benar) (I⇒O).
+
+**Hukum:** 
+1. Salah satunya bisa benar dan kedua-duanya bisa benar sekaligus. 
+2. Namun tidak bisa keliru secara bersamaan.
+
+Sebagian manusia adalah hewan (benar) ⇒ sebagian manusia bukanlah hewan (salah)
+Sebagian segitiga bukanlah persegi (benar) ⇒ sebagian segitiga adalah persegi (salah)
+Sebagian manusia adalah penyair (benar) ⇒ sebagian manusia bukanlah penyair (benar)
+
+في الشخصية: زید کاتب، زيد ليس بكاتب
+وفي المهملة: الإنسان حيوان لا شيء من الإنسان بحيوان.
+وفي الكلية: كل إنسان حيوان، بعض الإنسان ليس بحيوان.
+وفي الجزئية: بعض الإنسان حيوان، لا شيء من الإنسان حيوان. 
