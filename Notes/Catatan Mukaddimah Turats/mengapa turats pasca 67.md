@@ -62,7 +62,7 @@ Zaki Najib Mahmud menganalisis *turāts* untuk menunjukkan bagaimana ia berurusa
 
 menurut syukri 'ayyad (liberal) #ashalah pertama kali muncul pada tahun 20-an dan 30-an. Namun ia menjadi lebih umum digunakan pada pertengahan 1950-an untuk memaksudkan individualitas, penemuan dan pembebasan dari tradisi. Artian yang terakhir ini selalu dipertentangkan dengan imitasi-imitasi. Penggunaan lain dari ashalah juga berarti pemeliharaan berkelanjutan atas elemen-elemen pendahulu dalam kebudayaan tertentu. JIka yang pertama mengacu kepada individu, yang terakhir mengacu kepada kekhususan nasional. Namun keduanya sama dalam hal memberikan konsepsi tentang personalitas: personalitas nasional dalam kebudayaan secara umum dan personalitas individu penulis dalam kedudukan historis dan kebudayaan yang ia miliki (bersama penulis lain). [@boullata1990trends, 14]
 
-- [ ] bagaimana ashalah mengalami perubahan konsepsi menurut Shukri Ayyad? #aktif
+- [x] bagaimana ashalah mengalami perubahan konsepsi menurut Shukri Ayyad? #aktif ✅ 2026-08-09
 
 #### Konferensi Kuwait
 

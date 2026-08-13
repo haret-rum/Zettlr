@@ -6,4 +6,4 @@
 	- [x] nahdhah pertama baca muhawalah #aktif ✅ 2026-07-25
 	- [ ] tipologi pemikiran nahdhah baca mafahim isykaliyyah 12 juga 106 kemudian 133 dan 471 #aktif
     - [ ] baca tentang ashalah dalam buku shukri ayyyad yang disinggung oleh Boulatta dalam trend
-- [ ] mencari tentang kemunculan diskusi turats sebagai ashalah. Kemudian turats dan kaitannya dengan kemunduran dan reformisme #active 📅 2026-08-02
+- [x] mencari tentang kemunculan diskusi turats sebagai ashalah. Kemudian turats dan kaitannya dengan kemunduran dan reformisme #active 📅 2026-08-02 ✅ 2026-08-09
