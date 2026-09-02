@@ -1,9 +1,11 @@
 ---
-title: "Outline Pendahuluan Turats 67"
-keywords: [turats 67, Arab-Islam]
+title: Outline Pendahuluan Turats 67
+keywords:
+  - turats 67
+  - Arab-Islam
 subject: turats 67
 lang: id-ID
-date: 03 August 2026
+date: 2026-08-03
 author: AF Abimanyu
 id: 20260727171946
 ---

@@ -63,7 +63,7 @@ id:  20260807113733
   - Dan akhirnya: bagaimana seseorang **menegaskan diri sekaligus melakukan kritik** pada saat yang sama?
 - **Beban tambahan dari warisan kolonial**: warisan kolonial, kendala neokolonial, dan pengalaman-pengalaman mengecewakan dari negara-negara merdeka pascakolonial **melipatgandakan** kompleksitas menjawab pertanyaan-pertanyaan ini — melipatgandakan tekanan-tekanan yang dihadapi.
 
-## Dua Tekanan Utama dalam Pencarian Diri Kultural [@kassabContemporaryArabThought2010 25-26]
+## Dua Tekanan Utama dalam Pencarian Diri Kultural [@kassabContemporaryArabThought2010, 25-26]
 
 - **Tekanan pertama — kebutuhan mempertahankan rasa diri yang positif**: kebutuhan mendesak dan defensif ini menyisakan sedikit ruang untuk mengajukan pertanyaan (kritis), tapi justru membutuhkan rasa diri yang **solid, determinatif, dan sering deterministik** — memunculkan segala macam gagasan diri yang teresensialisasi dan dinaturalisasi.
   - Kebutuhan ini juga cenderung mendorong **apologi dan polemik**, di mana definisi diri yang teresensialisasi yang diberikan oleh "Sang Lain kolonial" (colonial Other) sering kali **sekadar dibalik** — dari valensi negatif kolonial menjadi valensi positif — tanpa benar-benar mendekonstruksinya.
