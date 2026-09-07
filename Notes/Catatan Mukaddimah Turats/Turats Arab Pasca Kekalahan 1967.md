@@ -122,7 +122,7 @@ Fenomena semacam ini sebenarnya tidak hanya berlangsung terhadap kelompok Islami
 
 Kelompok modernis pasca-kekalahan 1967 banyak memberikan respons terhadap dominasi pandangan Islamisme dalam memahami hubungan antara turats dan *mu’asharah*. Istilah modernis sendiri dalam tulisan ini mengacu pada kecenderungan pemikiran yang menerima premis-premis modernitas, mengkritik tradisionalisme dan hendak meleburkan sama sekali aspek-aspek tradisi dan modernitas. Banyak dari pemikir dalam kategori ini yang menerima gagasan tentang sekulerisme, pluralisme dan demokrasi.
 
-Kalangan modernis Arab sebagian besarnya banyak yang berkonsentrasi pada aspek kultural, seperti kritik nalar yang digagas oleh al-Jabiri. Dalam pandangan al-Jabiri masyarakat Arab kontemporer didominasi oleh nalar fikih yang cenderung membelenggu kebebasan nalar untuk berinteraksi dengan masalah-masalah kontemporer. Oleh karena itu ia mengusulkan pelampauan pendekatan *qiyās al-ghaib ‘ala al-syahid* sekalipun harus mengorbankan turatsnya. 
+Kalangan modernis Arab sebagian besarnya banyak yang berkonsentrasi pada aspek kultural, seperti kritik nalar yang digagas oleh al-Jabiri. Dalam pandangan al-Jabiri masyarakat Arab kontemporer didominasi oleh nalar fikih yang cenderung membelenggu kebebasan nalar untuk berinteraksi dengan masalah-masalah kontemporer. Oleh karena itu ia mengusulkan pelampauan pendekatan *qiyās al-ghaib ‘ala al-syahid*. 
 
 Posisi serupa dalam memandang turas juga dipegang oleh Abdullah al-Aroui. Sekalipun apa yang ia tawarkan ia namai dengan marxisme-historisism, namun tawaran itu tak lebih dari seruan ideologi kulturalis yang dipadupadankan dengan liberalisme .[^21]
 
