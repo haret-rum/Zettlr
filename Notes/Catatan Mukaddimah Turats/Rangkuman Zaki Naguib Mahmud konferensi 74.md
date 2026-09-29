@@ -1,0 +1,57 @@
+
+Ada semacam peralihan menurut Zaki Najib 81, dalam standar pengukur kemajuan pemikiran. Apa yang telah dikuasai oleh para pelajar tsanawiyyah adalah apa yang dulu dikuasai oleh para filsuf dan sastrawan besar. Namun para filsuf dan sastrawan besar tidak mampu menggerakkan pesawat dengan kemampuan menulis dan membacanya. 
+
+Menurut Zaki Najib, terdapat perbedaan kualitatif dalam pengetahuan. Seperti telah dijelaskan di atas. Dan Arab masih terjebak dalam kebudayaan bahasanya. Bahasa bagi orang Arab bukan hanya instrumen kebudayaan, tetapi bahasa bahkan adalah kebudayaan itu sendiri. 
+
+Menurut Zaki Najib, persoalan besarnya sekarang adalah bagaimana Arab bergeser dari kebudayaan lafadz menuju kebudayaan ilmu, teknik, dan mesin? Menurutnya, jelas bahwa pergeseran itu tidak akan terjadi dengan kembali kepada *turāts* kuno. Sumber satu-satunya adalah berpaling kepada Eropa dan Amerika, untuk mengambil dari sumber-sumber mereka apa yang telah mereka berikan secara sukarela dan mewujudkan apa saja yang telah kita terima. Zaki Najib (82)
+
+Zaki Najib tampaknya juga memisahkan antara iman dan ilmu. Di samping itu Naguib juga melihat muʿāshirah tidaklah bertentangan juga tidak mendukung keimanan religius apa pun bentuk dan isinya. Muʿāshirah adalah segala hal yang berkaitan dengan problem hari ini; muʿāshirah adalah mengejar perkembangan ilmu pengetahuan, teknologi dan aplikasinya; mengikuti perkembangan disiplin-disiplin ilmu sesuai dengan keniscayaan hari ini; mengikuti perkembangan sistem pemerintahan, pendidikan, ekonomi, dan cara hidup lainnya sesuai dengan **peradaban** tempat kita hidup. hal 133
+
+Namun memisahkan iman dan akal bukan berarti mempertentangkan keduanya. Menurut Naguib, justru iman dan akal harus bekerja sama satu sama lain guna mencapai satu tujuan yang sama. Masing-masing dari akal dan iman memiliki fungsi dalam memahami dan mengatur perilaku. Terang Naguib, jika orang-orang terdahulu membatasi konflik pada teks al-Quran dan sunnah baik mereka menggunakan akal atau menerimanya sesuai makna harfiahnya, maka hari ini kita membuat kerjasama di antara keduanya dalam dua hal yang berlawanan, yaitu agama di satu sisi dan ilmu pengetahuan di sisi lainnya. Jika kita ingin mengambi posisi terhadap *turāts*, maka biarlah itu menjadi posisi muktazilah dan asy’ariyyah sekaligus. Dari mu’tazilah kita mengambil metode rasional mereka dan dari Asy’ariyyah kita mengambil tawaqquf penggunaan akal pada batas akhir yang mampu kita capai. Dengan cara ini kita menyerahkan agama kepada iman, dan ilmu pengetahuan kepada akal tanpa salah satu pihak mencoba untuk mencampuri urusan pihak lainnya. hal.136
+
+Dengan analogi yang sama tentang tolak ukur peradaban dalam konferensi 74, Naguib menegaskan bahwa para rasionalis terdahulu mengambil sumber-sumber dari Yunani, Persia, dan India. Hal ini parallel dengan situasi Arab hari ini di mana mereka seharusnya mengambil dari sumber-sumber Eropa dan Amerika. hal 142
+
+Menurut Naguib para mutatharrifin dari sunni dan pengikut salaf tidak rela adanya pikiran imporan masuk. Ilmu menurut mereka adalah lafadz yang tidak semestinya tercampuri oleh makna lain barang satupun. Ilmu adalah sesuatu yang diwariskan Nabi. Adapun selain itu, bisa jadi ia keluar dari koridor ilmu secara absolut, atau dia adalah pengetahuan yang tidak bermanfaat dan mengeluarkan hasil. hal 167
+
+## Konferensi 1974
+
+Naguib membagi peradaban luhur sepanjang seajrah manusia menjadi empat:
+
+- Athena di era Pericles 5 SM
+- Baghdad di era al-Makmun 9 M
+- Florence 15 M
+- Paris pada masa Renaissance 18 M
+
+Keempat peradaban tersebut memiliki kesamaan yang membuat mereka disebut peradaban, yang sifatnya tidak dapat ditempelkan pada kemunduran maupun primitivisme. Itu adalah kebijaksanaan Akal dalam setiap tindak menerima dan menolak segala hal. Akal muncul di ranah politik, peperangan, tata hukum, ilmu-ilmu alam dst. Terlepas dari perbedaan ranah-ranah ini, kesemuanya berpatok pada logika akal semata dan tidak lainnya. Rasionalisme akal ini selalu ada pada peradaban manapun betapapun karakteristiknya berbeda satu sama lain, yang tidak akan ditemukan dalam masyarakat primitif. Apa yang disebut sebagai ilmu pengetahuan tidak lain adalah rasionalitas yang telah mengambil arah tertentu dari berbagai aspeknya. Rasionalitas ini boleh tentu diarahkan pada ide-ide abastrak mengorganisir dan menyusunnya dalam urutan hierarkis yang spesifik seperti di Yunani Kuno. Atau berang tentu diarahkan pada analisis hukum yang diwahyukan pada orang Arab awal. Atau diarahkan pada fenomena alam, mengekstraksi hukum-hukum teoretisnya seperti terjadi pada Eropa di era modern. Atau diarahkan pada hukum-hukum ilmiah teoretis sebagai perangkat yang dioperasikan oleh manusia seperti di era sekarang ini. hlm. 7
+
+Akal adalah asas bagi peradaban, dan ia dapat diarahkan kepada bidang-bidang yang berbeda secara kualitatif dari satu masa ke masa lain. Bidang  hari ini adalah ilmu alam yang menjadi perangkat dan teknologi, yang tidak terbats hanya dalam formulasi matematika teoritis saja. 
+
+Poros kemajuan peradaban adalah aktivitas akal semata. Seandainya Planck, Borough atau Heisenberg adalah orang-orang dari Basrah, niscaya ia akan seperti Khalil bin Ahmad menghasilkan kamus bahasa Arab dan sistem syair untuk puisi. Yang membedakan antar satu periode historis dengan lainnya adalah bidang penyelidikan, yang ditentukan oleh keadaan dan situasi era tertentu. hl. 8
+
+Hari ini, kondisi zaman telah menentukan bahwa bidang studi adalah bidang alam. Instrumen kemajuan hari ini adalah bahasa sains Mengapa demikian, karena kita telah telah memasuki revolusi ketiga zaman industri.
+
+- revolusi pertama adalah ketika mesin menggantikan tubuh, baik manusia maupun hewan; 
+- yang kedua ketika mesin mulai mengoperasikan mesin lain tanpa campur tangan manusia; 
+- dan yang ketiga ketika cakupan mesin meluas melampaui apa yang dulu dilakukan tubuh, meluas hingga mencakup aktivitas pikiran.
+
+Inilah zaman teknologi di mana tidak ada perbedaan antara masyarakat Timur atau Barat. Selama suatu masyarakat maju menurut standar zamannya, tidak dapat dihindari bahwa pertama-tama masyarakat tersebut akan mempercayakan urusannya kepada akal, dan kedua, mengarahkan aktivitas akal tersebut ke ilmu pengetahuan alam dan instrumen-instrumennya. Jika kemampuan ekonominya mencegahnya untuk berkontribusi pada bidang ini, maka sangat penting baginya untuk mengadopsi metodologi ilmu-ilmu tersebut sebagai metodologinya di bidang apa pun yang dapat ditelitinya. Ada bidang-bidang ilmu sosial: psikologi, ekonomi, dan sosiologi. Semua bidang menunjukkan perbedaan kemajuan dan kemunduran antar negara di era kita, yang mungkin menunjukkan bahwa salah satu dari bidang tersebut dapat menjadi alat yang tepat untuk mengukur kemajuan dan kemunduran. Namun, semuanya bermuara pada satu titik: perspektif rasional, melalui lensa sains, pada semua aspek kehidupan.
+
+***
+
+Kita kembali pada pertanyaan: Di manakah posisi bangsa Arab saat ini, dalam hal kemajuan atau kemunduran di jalan peradaban?  
+  
+Terdapat banyak standar pengukuran. Ada standar ekonomi, yang mengukur kemajuan berdasarkan pendapatan rata-rata; ada standar budaya, yang mengukurnya berdasarkan tingkat penyebaran pendidikan; dan ada standar yang paling banyak diterima, yang mengukur kemajuan atau keterbelakangan suatu bangsa berdasarkan tingkat sekularisasi dan industrialisasi—yaitu, sejauh mana bangsa tersebut bertransformasi menjadi kehidupan industri yang berbasis pada perangkat otomatis. Apa pun standar yang dipilih, syarat pentingnya adalah selalu bahwa cara hidup dan berpikir berubah untuk mengikuti semangat kemajuan modern.
+
+Kemajuan ini tidak berarti apa pun kecuali kita tahu tujuan apa yang sedang kita tuju, sehingga kita dapat mengukur jarak antara posisi kita saat ini dan tujuan yang sedang kita perjuangkan. Dengan kata lain: apa model sempurna yang kita bayangkan saat kita melangkah maju, sehingga kita dapat yakin akan kebenaran posisi kita: apakah kita mendekati atau menjauh dari model tersebut? Dan sungguh menyakitkan bagi saya untuk mengatakannya dengan jujur, dan juga menyakitkan bagi Anda untuk mendengarnya, tetapi ini adalah kebenaran yang tidak dapat kita hindari, yaitu bahwa model pengukurannya adalah kehidupan modern sebagaimana yang terjadi saat ini di **beberapa bagian Eropa dan Amerika**, karena Tuhan telah menghendaki bahwa sumber peradaban berada di sana saat ini, seperti halnya di tanah kita dahulu.  
+  
+Kita dapat meringkas ciri-ciri terpenting dari kehidupan Eropa-Amerika, yang merupakan peradaban zaman ini, dalam beberapa poin yang membantu kita mengukur posisi kita dalam kaitannya dengan tujuan tersebut: Di antara ciri-ciri khas tersebut adalah kecepatan perubahan dan kecepatan menerima hal-hal baru. Kehidupan masyarakat di sana terus berubah dari hari ke hari, dan mereka harus mengikutinya. Mengikutinya berarti tidak terpesona oleh apa yang telah berlalu dan mati, sehingga kita tidak berlama-lama berdiri di reruntuhan, tetapi selalu mengarahkan pandangan kita ke masa depan. Masyarakat di sana percaya dengan keyakinan yang tak terbatas pada sains dan kemampuannya untuk berkembang secara stabil, dan semakin stabil perkembangannya, semakin banyak pula transformasi yang terjadi pada kehidupan manusia, baik secara kuantitatif maupun kualitatif.  
+  
+Jika kita ingin mengukur kemajuan atau kemunduran, kita hanya perlu mengukur jarak antara kehidupan orang rata-rata di masyarakat kita dan kehidupan orang rata-rata di masyarakat mereka: dalam jumlah ilmu pengetahuan, dalam ketelitian perencanaan, dalam kelimpahan produksi, dalam luasnya kebebasan politik dan sosial, dan hal-hal lain yang bercabang dari satu sumber, yang diringkas dalam ungkapan kita tentang peradaban zaman ini yaitu: ilmiah, teknologi, dan utilitarian.
+
+Saya menyadari keberatan di sini, yaitu: **Mengapa kita menghancurkan budaya kita sendiri dalam budaya orang lain, sehingga kita menjadikan mereka sebagai model untuk kita tiru?** Saya pikir jawaban terbaik yang menghilangkan kecemasan kita adalah membatasi kekhasan budaya kita pada aspek-aspek yang membedakan bangsa-bangsa, yang pada saat yang sama bukanlah ukuran kemajuan peradaban seperti yang telah kita definisikan, dan yang saya maksud dengan itu adalah aspek keimanan, seni, dan beberapa tradisi kehidupan yang tidak bertentangan dengan gerakan ilmiah beserta cabang-cabangnya.
+
+dengan cara ini kita membiarkannya mengikuti perkembangan zaman dalam pandangan ilmiahnya yang ketat, dan tetap mempertahankan jati dirinya di bidang emosi dan cara mengekspresikannya dalam kepercayaan, sastra, dan seni.  
+  
+**Diskusi tentang peradaban dan isu kemajuan serta keterbelakangan bangsa Arab tidak akan merangsang aktivitas intelektual kita jika kita terperangkap dalam keadaan stagnasi intelektual yang telah menjerumuskan kita ke jurang kehancuran.** Diskusi tersebut juga tidak akan merangsang aktivitas kita jika kita telah mencapai puncak peradaban modern. Dalam kasus pertama, kesadaran akan lenyap, sehingga tidak ada pemikiran maupun aktivitas. Dalam kasus kedua, rasa puas dan nyaman akan berkuasa, tanpa kecemasan dan pertanyaan.  
+
+kita berada di jalur pendakian, menempati posisi di antara kedua ekstrem tersebut. Oleh karena itu, aktivitas intelektual semacam itu sangat penting bagi kita, memungkinkan kita untuk meraba jalan ke depan dan menghindari penyimpangan dari jalan yang lurus untuk mencapai tujuan dan aspirasi kita.

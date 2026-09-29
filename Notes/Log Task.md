@@ -1,1 +1,1 @@
-- [ ] mendaftar karya-karya nahdhah #aktif
+- [x] mendaftar karya-karya nahdhah #aktif ✅ 2026-09-09
