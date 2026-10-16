@@ -10,15 +10,29 @@ Bab qadhiyah adalah pembahasan yang paling dasar untuk memahami jantung dari kaj
 > [!quote]
 > مركب احتمل الصدق والكذب لذاته. 
 > 
-> Definisi qadhiyah: qaul tersusun yang dapat dinilai benar dan salah pada dirinya sendiri.
+> **Definisi qadhiyah:** qaul tersusun yang dapat dinilai benar dan salah pada dirinya sendiri.
 
-hamliyyah
+Definisi di atas berarti mengecualikan:
 
-| **زيد** | **هو**                          | **كاتب** |     |
-| ------- | ------------------------------- | -------- | --- |
-| موضوع   | رابطة *عبارة عن* النسبة الحكمية | المحمول  |     |
+- qaul yang berupa mufrad. (lihat kembali perbedaan antara mufrad dan murakkab di [[pembahasan-tentang-lafadz|pembahasan Lafadz]])
+- setiap qaul yang tidak dapat dinilai benar dan salahnya, seperti insyā’ dan thalab.
 
-syarthiyyah
+Definisi di atas juga berlaku ke semua pernyataan terlepas apakah pernyataan itu benar karena telah difirmankan Allah atau apakah pernyataan itu salah karena disampaikan oleh Musailamah al-Kaddzab. 
+
+Qadhiyyah terdiri dari dua unsur yang saling dinisbatkan. Adakalanya 1) nisbat berupa pelekatan (haml) dan 2) adakalanya nisbat berupa talazum atau pertentangan (inad). Berdasarkan nisbat ini, qadhiyyah dibagi menjadi:
+
+1) Hamliyyah (proposisi kategoris)
+2) Syartiyyah (proposisi kondisional)
+	1) Muttashilah (konjungtif)
+	2) Munfashilah (disjungtif)
+
+Contoh qadhiyyah hamliyyah:
+
+| **زيد** | **هو**                          | **كاتب** |
+| ------- | ------------------------------- | -------- |
+| موضوع   | رابطة *عبارة عن* النسبة الحكمية | المحمول  |
+
+Contoh qadhiyyah syarthiyyah:
 
 | **إن**                                 | **كانت الشمس طالعة،** | **فـ**                                 | **النهار موجود** |
 | -------------------------------------- | --------------------- | -------------------------------------- | ---------------- |
@@ -28,13 +42,6 @@ syarthiyyah
 | ------------------ | ------------------------------------- | ------------ |
 | المقدم             | اداة العناد *عبارة عن* النسبة التنافي | التالي       |
 
-Qadhiyyah terdiri dari dua unsur yang saling dinisbatkan. Adakalanya 1) nisbat berupa pelekatan (haml) dan 2) adakalanya nisbat berupa talazum atau pertentangan (inad). Berdasarkan nisbat ini, qadhiyyah dibagi menjadi:
-
-1) Hamliyyah (proposisi kategoris)
-2) Syartiyyah (proposisi kondisional)
-	1) Muttashilah (konjungtif)
-	2) Munfashilah (disjungtif)
-
 ## Qadhiyah Hamliyah (Proposisi Kategoris)
 
 Qadhiyah hamliyyah adalah qadhiyah yang mengandung maudhu dan mahmul.
@@ -42,7 +49,7 @@ Qadhiyah hamliyyah adalah qadhiyah yang mengandung maudhu dan mahmul.
 > [!quote]
 > ما اشتملت على موضوع ومحمول ؛ كزيد كاتب، إما أن يكون موضوعها كليا؛ كالإنسان حيوان، أو جزئيا؛ كزيد كاتب.
 
-%%Contoh: maudhu-copula (predikasi)-mahmul
+<!--Contoh: maudhu-copula (predikasi)-mahmul
 Rabithah:
 - zamaniyyah كان
 - ghairu zamaniyyah هو
@@ -50,7 +57,7 @@ Rabithah:
 َsusunan qadhiyah:
 - tsunaiyyah = maudhu + mahmul
 - tsulatsiyyah = maudhu + rabithah + mahmul
-%%
+  -->
 
 | **زيد** | **هو**                          | **كاتب** |
 | ------- | ------------------------------- | -------- |
@@ -60,11 +67,11 @@ Rabithah:
 | --------- | ------------------------------- | -------- |
 | موضوع     | رابطة *عبارة عن* النسبة الحكمية | المحمول  |
 
-dalam contoh di atas "emas" dihukumi sebagai "logam", atau dengan kata lain, emas dilekatkan/dibawai/disandari sifat ke-logam-an. Sedangkan kata "huwa" menjelaskan nisbat hukum antara "emas" dan "logam". dengan demikian kita dapat menyimpulkan bahwa qadhiyyah tersusun dari:
+dalam contoh الذهب هو معدن "emas" dihukumi sebagai "logam", yang berarti emas dilekatkan/dibawai/disandari sifat ke-logam-an padanya. Adapun kata "huwa" berfungsi untuk menjelaskan dan mengekspresikan (*ʿibārah*) nisbat hukum antara "emas" dan "logam". Dari dua contoh di atas, kita dapat menyimpulkan bahwa qadhiyyah tersusun dari:
 
-1. **Maudhu**' (subjek) yaitu "emas" sebagai hal yang diletakkan untuk dibawai sifat tertentu. dalam ilmu Nahwu, maudhu' juga disebut dengan mahkum alaih atau musnad ilaih.
-2. **Mahmul** (predikat) yaitu "logam" sebagai hal yang dibawai/dilekatkan pada maudhu'. dalam ilmu Nahwu, mahmul juga disebut dengan mahkum bih atau musnad.
-3. **Nisbat Hukum** yaitu hubungan antara maudhu' dan mahmul yang menyatakan ijab (positif/afirmatif) atau salab (negatif) dan dinyatakan dalam pelafalan;
+1. **Maudhu**' (subjek) yaitu "emas" sebagai hal yang diletakkan untuk dibawai sifat tertentu. dalam ilmu Nahwu, maudhu' juga disebut dengan *maḥkūm ʿalaih* atau *musnad ilaih*.
+2. **Mahmul** (predikat) yaitu "logam" sebagai hal yang dibawai/dilekatkan pada maudhu'. dalam ilmu Nahwu, mahmul juga disebut dengan *maḥkūm bih* atau *musnad*.
+3. **Nisbat Hukum** yaitu hubungan antara maudhu' dan mahmul yang menyatakan ījāb (positif/afirmatif) atau salab (negatif); tetap tidaknya mahmul pada maudhu’.
 4. **Rabithah** (kopula) yaitu ekspresi kebahasaan yang menjelaskan nisbat hukum. Dalam bahasa Arab ia bisa jadi dibuang atau berupa "huwa" atau adat nafi seperti لاو ليس dsb. Dalam Bahasa Indonesia ia dinyatakan dengan "adalah" "bukan" dan "tidak".
 
 > [!tip] Catatan
@@ -77,24 +84,25 @@ Kata haml dalam hamliyyah berarti membawa. Dalam ilmu mantiq, **maudhu** adalah 
 > 
 > Apa yang dimaksudkan dengan mahmul adalah mafhumnya atau sifatnya
 
-Ketika kita mengatakan "emas adalah logam", maka dengan kata lain kita berarti juga:
+Ketika kita mengatakan “emas adalah logam”, maka dengan kata lain kita berarti juga:
 
 1. menempelkan sifat kelogaman terhadap emas sebagai objeknya
 2. menempelkan mafhum logam terhadap mashadaq emas
 
 Ketika kita mengatakan "manusia adalah hewan", maka kita juga berarti:
 
-1. menempelkan mafhum hewan terhadap mashadaq manusia {zaid, bakar, umar, muhammad dst} = hewan
-2. mengatakan bahwa sifat hewan itu benar dapat diterapkan pada {zaid, bakar, umar, muhammad dst} (الحيوان كمفهوم صدق على أفراد الإنسان)
+1. menempelkan mafhum hewan pada mashadaq manusia, atau kita bisa merumuskan bahwa manusia yang beranggotakan {zaid, bakar, umar, muhammad dst} dapat disifati dengan hewan
+2. mengatakan bahwa sifat hewan itu benar bisa diterapkan pada {zaid, bakar, umar, muhammad dst} (الحيوان كمفهوم صدق على أفراد الإنسان).
 
-Setiap logam dapat menghantarkan panas
+“Setiap logam dapat menghantarkan panas”
 
 Maka benar untuk mengatakan:
 konsep menghantarkan panas berlaku atau dapat diterapkan pada semua afrad logam
-	emas *dapat menghantarkan panas*
-	besi *dapat menghantarkan panas*
-	kuningan *dapat menghantarkan panas*
-	tembaga *dapat menghantarkan panas*
+
+- emas *dapat menghantarkan panas*
+- besi *dapat menghantarkan panas*
+- kuningan *dapat menghantarkan panas*
+- tembaga *dapat menghantarkan panas*
 
 ## Pembagian Hamliyyah
 
@@ -112,14 +120,9 @@ Berdasarkan maudhu'nya qadhiyyah hamliyyah dibagi menjadi:
 		2. Contoh: كل إنسان حيوان
 	2. Juz'iyyah (partikular)
 		1. Jika maudhu berupa kulli dengan sur juz'i (مسورة بالسور الجزئي)
-		2. Contoh: 
-		
--manusia adalah penyair-
+		2. Contoh: بعض الإنسان شاعر
 
-sebagian manusia adalah penyair
-semua manusia adalah penyair
-
-Adapun yang dimaksud sur (السور/kuantor) adalah lafadz yang menunjukkan **kammiyyah (kuantitas)** afrad maudhu pada sebuah qadhiyyah; apakah keseluruhan atau sebagiannya. Jika keseluruhannya maka qadhiyyah disebut kulliyyah. Jika sebagiannya maka qadhiyyah disebut juz'iyyah.
+Adapun yang dimaksud sur (السور / kuantor) adalah lafadz yang menunjukkan **kammiyyah (kuantitas)** afrād maudhu pada sebuah qadhiyyah; apakah keseluruhan atau sebagiannya. Jika keseluruhannya maka qadhiyyah disebut kulliyyah. Jika sebagiannya maka qadhiyyah disebut juz'iyyah.
 
 > [!tip] Catatan
 > Sebagian ahli mantiq juga menyebutkan bahwa terdapat macam lain, yaitu qadhiyyah thabi'iyyah. Qadhiyyah thabi'iyyah membahas maudhu' sebagai term-term logika, sebagaimana pernyataan "manusia adalah nau". Manusia diartikan sebagai kategori logika dan dalam pernyataan tersebut dihukumi sebagai syakhsiyyah
@@ -242,6 +245,8 @@ Contoh muhasshalah
 ولا شيء من الجهاد بإنسان
 
 > [!quote]
+> Macam-macam sūr dapat dilihat dari penjelasan berikut ini:
+> 
 > (١) **السور الكلى فى الإيجاب** وهو كل، وجميع، وعامة، وكافة، وغيرها من كل لفظ يدل على ثبوت المحمول لجيع أفراد الموضوع؛ وذلك نحو كل مثلث يحتوى على ثلاثة أضلاع، جيع المعادن تتمدد بالحرارة، عامةالمصرين محبون أميرهم 
 > (٢) **السور الكلى فى السلب** وهو لاشى، ولا واحد، والنكرة فى سياق النفى وغيرها من كل ما يدل على عموم سلب الحكم عن جيع أفراد الموضوع؛ وذلك نحو لاشيء من الجماد بحي، ولا واحد من الطلبة حاضر 
 > (٣) **السور الجزئي فى الايجاب** وهو بعض، وواحد، وكثير، وقليل، ومعظم وغيرها من كل لفظ يدل على ثبوت المحمول لبعض أفراد الموضوع فقط ؛ وذلك نحو بعض المثلث قائم الزاوية ، وواحد من الحاضرين يتكلم ، وقليل من المصريين سافر إلى أوربا
